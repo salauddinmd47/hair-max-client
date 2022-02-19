@@ -1,0 +1,19 @@
+ 
+.about-container{
+    width: 90%;
+    margin: auto;
+     
+    margin-top: 80px;
+}
+.about-thumb{
+    width: 70%;
+    margin: auto;
+    padding-left: 70px;
+}
+ 
+.about-details{
+     display: flex; 
+     align-items: center;
+     padding-right: 20px;
+     padding-bottom: 40px;
+}
